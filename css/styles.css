@@ -312,4 +312,8 @@ h3 {
   .introduction, .first-skill, .second-skill, .third-skill, .contact {
     width: 80%;
   }
+  
+  .footer-link {
+    margin: auto 20px;
+  }
 }
