@@ -108,7 +108,7 @@ h3 {
 
 .second-skill {
   width: 50%;
-  margin: 0 auto 100px;
+  margin: 0 auto 70px;
   text-align: left;
 }
 
@@ -121,7 +121,7 @@ h3 {
 
 /* Third skill sub-part */
 
-.third-skill {
+/* .third-skill {
   width: 50%;
   margin: 0 auto 50px;
   text-align: left;
@@ -132,7 +132,7 @@ h3 {
   border-radius: 50%;
   float: left;
   margin-right: 30px;
-}
+} */
 
 /* Contact sub-part */
 
